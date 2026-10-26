@@ -1,0 +1,2 @@
+# Android builds are deployed separately (Netlify). GitHub warns above 50 MB.
+*.apk
